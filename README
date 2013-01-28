@@ -15,3 +15,4 @@ Copyright (C) 2013, David C. Merritt, david.c.merritt@siemens.com
 List and Description of Files
 =============================
 
+CreateSharePointNetworkLocations.vbs - automate the creation of SharePoint Network Location shortcuts
